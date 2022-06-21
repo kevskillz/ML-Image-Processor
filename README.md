@@ -6,7 +6,9 @@ Given a set images, point out where objects are in a few images and let ML handl
 - Mass Image/Video Input
 - UI for mapping out few initial points
 - Scaling to convert pixels->another unit (useful for distances)
-- Outlier alerts, data visualization
+- Multi-object differentiation
+- Numerous data variables to record (distance, position, variance, number of objects, etc.)
+- Outlier alerts, data visualization, time lapse creation
 - Variety in data output
 
 
@@ -21,3 +23,4 @@ Given a set images, point out where objects are in a few images and let ML handl
 
 # Next steps
 - Fiji/ImageJ Integration
+- More data variables
